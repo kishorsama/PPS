@@ -10,4 +10,6 @@ velocity=float(input('Enter value of velocity in m/s: '))
 momentum=mass*velocity
 
 #output of momentum
-print("momentum is",momentum)
+print("momentum is"),
+print(momentum),
+print('kg.m/s')
