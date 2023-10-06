@@ -26,7 +26,7 @@ max_num=max(list1)
 min_num=min(list1)
 
 #calculate average of from entered numbers
-average=max_num/length
+average=addition/length
 
 #show entered numbers
 print('Entered number are = '),
